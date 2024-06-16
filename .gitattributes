@@ -6,3 +6,6 @@
 
 # Show SQL files as SQL and not TSQL
 *.sql linguist-language=sql
+
+# Take HTML file as documentation only
+*.html linguist-documentation
