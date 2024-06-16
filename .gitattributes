@@ -3,3 +3,6 @@
 
 # Show SQL files as SQL
 *.sql linguist-detectable=true
+
+# Show SQL files as SQL and not TSQL
+*.sql linguist-language=mysql
