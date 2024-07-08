@@ -1,9 +1,3 @@
----
-output: 
-  html_document: 
-    css: custom.css
----
-
 ------------------------------------------------------------------------
 
 # When was the Golden Age of Video Games?
